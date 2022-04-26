@@ -36,11 +36,33 @@ Holding `Ctrl` when creating a new rectangle makes it square:
 
 ![ink](./figures-2/rect-5.png)
 
+Just below the rectangle tool, you'll find the circle tool.
+By default, this makes nice ellipses, but if you hold `Ctrl` (and drag the mouse in roughly the right direction) it lets you make perfect circles.
+Hold `Ctrl+Shift` to draw perfect circles _centered on the first point you clicked_.
+
+![ink](./figures-2/circle-1.png)
+
+As with the rectangle tool, selecting the circle tool changes the toolbar shown at the top.
+You can use this to manually set the circle size (to manually set position, click the cursor tool, select the circle again, and use the new toolbar that's appeared).
+You can also set circle start & end points here:
+
+![ink](./figures-2/circle-2.png)
+
+Use the toolbar buttons to change the way fill & stroke is applied to semi-circles:
+
+![ink](./figures-2/circle-3.png)
+
+## Drawing paths
+LINES
+
+### Positioning and snapping
+
+- Move, snap to different bits
+- Z-index
 
 
 
 - Rectangles, circles, text
-  - Grid, snap, steps
   - Align & distribute
   - Z-index
 - Stroke & fill
@@ -53,5 +75,5 @@ Holding `Ctrl` when creating a new rectangle makes it square:
   - Edit path
   - "Cornering" settings
   - Path intersection for zoom plots
-
 - Fun trick: noisy data
+- Guides
