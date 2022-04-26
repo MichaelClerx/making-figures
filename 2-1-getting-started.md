@@ -1,6 +1,6 @@
 # Making diagrams with Inkscape
 
-[Inkscape](https://inkscape.org/) is an open source tool to create vector art.
+[Inkscape](https://inkscape.org/) is an open source tool to create [vector art](https://en.wikipedia.org/wiki/Vector_graphics).
 "Ink", from octopusses, "scape" from land/sea/sound-scape.
 On linux, install with `dnf` or `apt-get`.
 
