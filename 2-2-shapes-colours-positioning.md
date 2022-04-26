@@ -62,10 +62,26 @@ Depending on what your "Fill" and "Stroke" colours are, you should get something
 
 Now let's play with fill and stroke in a bit more detail.
 Clear the page (select items and hit `delete`, or use `Ctrl+A` to select all and hit delete just once).
-Now use the line tool to draw a complex shape, with some sharp corners. E.g.:
+Now use the line tool to draw a shape, e.g.:
+
+![ink](./figures-2/fs-1.png)
+
+Now open the `Fill and Stroke` dialog. 
+You might already see it on the right of your screen, perhaps after toggling the dialogs on/off with F12.
+If not, use the menu open `Objects > Fill and Stroke`.
+
+![ink](./figures-2/fs-2.png)
+
+Using this dialog, you can control the fill & stroke settings of your object in detail.
+For example, to set a simple "flat color" as shown above.
 
 
-- Stroke & fill
+
+
+
+
+
+
   - Gradients? (Careful!)
   - Line endings (arrows)
   - Cap, join, order

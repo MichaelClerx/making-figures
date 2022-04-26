@@ -31,5 +31,5 @@ A bit of trial and error shows that `Document Properties` is the main culprit,
 
 ![ink](figures-2/annoyances-dialog-2.png)
 
-
+Once you shut the `Document Properties` dialog, the panel can be reduced to a much smaller size.
 
