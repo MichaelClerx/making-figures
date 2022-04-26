@@ -11,7 +11,7 @@ Like most free software, it combines amazing capabilities with the occasional gl
 - Use Ctrl+S to save as a matter of habit.
   - If it does crash, it will sometimes make a back-up first.
   - SVG is plain text, it works reasonably well with `git`. But forget about diff'ing, unless you have some kind of git XML extension installed.
-  - You can bother one of Inkscape's maintainers on twitter. Just use the word "inkscape" and within a week or he'll show up.
+  - You can bother one of Inkscape's maintainers on twitter. Just use the word "inkscape" and within a week or so he'll show up.
   - Alternatives are costly (e.g. 240 a year to adobe, for you [and your collaborators](https://en.wikipedia.org/wiki/Vendor_lock-in)).
 
 ![ink](./figures-2/hello.png)
@@ -94,13 +94,14 @@ Find the rectangle tool in the left toolbar, and draw a rectangle onto the grid 
 ![ink](./figures-2/snap-rect.png)
 
 Now go back to the cursor tool (top-left).
-The rectangle should now show move & resize handles.
-You can use these to transform the rectangle, or you can drag & drop the rectangle to move it around.
+The rectangle should now show resizing handles.
+You can use these to transform the rectangle, or click again to get rotation handles.
+You can use drag & drop to move the rectangle around.
 
 ![ink](./figures-2/snap-rect-move.png)
 
 But you can also use the arrow keys.
-If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle exactly by exactly one grid distance.
+If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle by exactly one grid distance.
 Use `Shift+Arrow key` to move it by 10 grid distances.
 
 ### Copy-pasting
