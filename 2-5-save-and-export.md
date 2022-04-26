@@ -45,6 +45,8 @@ To export a PNG, go to `File > Export PNG image`
 
 This opens a dialog (usually on the right) with several options.
 
+![export](./figures-2/export.png')
+
 Near the top, you can select `Page`, `Drawing`, `Selection` or `Custom`, which controls the objects that will be exported.
 Most of the time, you'll want to set this to `Page` (although Inkscape loves changing your settings to `Selection`).
 
