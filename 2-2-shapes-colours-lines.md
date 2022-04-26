@@ -1,4 +1,4 @@
-# Inkscape: Shapes, colours, and positioning
+# Inkscape: Shapes, colors, text, and lines
 
 ## Drawing shapes
 
