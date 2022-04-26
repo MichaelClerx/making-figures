@@ -1,18 +1,16 @@
 # Making figures with Inkscape and Matplotlib
 
-This is a short guide to making scientific figures with the open source tools [Inkscape](https://inkscape.org/) (for diagrams) and [Matplotlib](https://matplotlib.org/) (for plots of data and functions).
-It is split into three parts:
+This repo contains a bunch of tips and examples of how to make diagrams with [Inkscape](https://inkscape.org/) and plots of data or functions with [Matplotlib](https://matplotlib.org/).
+It's split into three parts:
 
-1. The [General tips](./1-general-tips.md) section provides a little technical background info and introduces a few of the general principles of figure making.
-2. The section [Making diagrams with Inkscape](./2-making-diagrams-with-inkscape.md) introduces Inkscape, with a particular focus on the tools that can help you make good _diagrams_, e.g. drawings of a scientific set-up, or visual abstracts.
-3. The section [Plotting data and functions with Matplotlib](./3-plotting-with-matplotlib.ipynb) gives a very quick tour of the most important functions in Matplotlib, which lets you _visualise data_, including (digitised) graphs of functions.
+1. [General tips](./1-general-tips.md), along with some technical background.
+2. [Making diagrams with Inkscape](./2-making-diagrams-with-inkscape.md), e.g. to visualise an experimental set-up or create a graphical abstract.
+3. [Plotting data and functions with Matplotlib](./3-plotting-with-matplotlib.ipynb).
 
-The goal in all three sections is not to provide a step-by-step guide, or a comprehensive overview, but just to give some pointers and to illustrate any general principles that seem to apply.
-There is lots more technical information on both tools available on line, including several tutorials.
-
-## Disclaimer
-
-I'm not an expert on either of these tools, or on design or [visual communication](https://en.wikipedia.org/wiki/Visual_communication).
-There are books out there, and tutorials, and multi-year academic courses!
-There are [not many papers (google)](https://scholar.google.com/scholar?q=scientific+figures), but a good one is: [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
+Disclaimer: 
+- This is not a step-by-step guide or a "comprehensive" introduction, but just a list of tips and opinions that I've cobbled together from personal experience and a little reading.
+- There is more and better technical information on both tools on line.
+- There are books, and tutorials, and multi-year academic courses on graphical design and communication.
+- There are not many papers that address scientific figure making directly ([says google](https://scholar.google.com/scholar?q=scientific+figures)).
+  This is a good one: [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
 
