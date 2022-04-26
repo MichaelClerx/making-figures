@@ -75,7 +75,33 @@ If not, use the menu open `Objects > Fill and Stroke`.
 Using this dialog, you can control the fill & stroke settings of your object in detail.
 For example, to set a simple "flat color" as shown above.
 
+### Setting a fill colour
 
+The first thing you'll want to do, is set the colour picking tool to either [HSL or HSV](https://en.wikipedia.org/wiki/HSL_and_HSV).
+HSV is my favourite.
+In this mode of colour selection, you can quite easily find good colour combinations by leaving S (saturation) and V (for _value_, or brightness) fixed at their values, and simply varying H (hue).
+(*Note that the human concept of "colour" is a lot more complex than this, for example "pink" and "brown" are certain hue/brightness/saturation combinations, while "golden" includes shinyness and highlights and whatnot.)
+
+The fourth slider lets you set the "alpha" or transparency value.
+This can give some nice effects, but requires some caution: many journals only accept `EPS` for vector graphics, and EPS does not support transparency.
+
+At the bottom right you'll find an RGBA field where you can enter HEX codes.
+This is particularly useful if you want to copy-paste colour values from other software.
+
+Besides "flat color", you can also try using a (linear or radial) gradient.
+
+![img](./figures-2/fs-3.png)
+
+Customising gradients is fiddly.
+Select the gradient in the `Fill and Stroke` dialog, then select the path editing tool top-left (just below the cursor).
+Now you can change the gradient orientation, and change the colour associated with each end (which also uses the Fill & Stroke dialog, so lots of potential for confusion).
+
+![img](./figures-2/fs-4.png)
+
+A drawback of using fancier rendering options like these is that the gradient will have to be created by any viewer or printer that renders the file.
+The more complicated the instruction, the less likely it is that the figure will always render the same.
+
+### Customising stroke style
 
 
 
