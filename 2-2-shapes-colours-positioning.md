@@ -75,8 +75,6 @@ If not, use the menu open `Objects > Fill and Stroke`.
 Using this dialog, you can control the fill & stroke settings of your object in detail.
 For example, to set a simple "flat color" as shown above.
 
-### Setting a fill colour
-
 The first thing you'll want to do, is set the colour picking tool to either [HSL or HSV](https://en.wikipedia.org/wiki/HSL_and_HSV).
 HSV is my favourite.
 In this mode of colour selection, you can quite easily find good colour combinations by leaving S (saturation) and V (for _value_, or brightness) fixed at their values, and simply varying H (hue).
@@ -107,8 +105,16 @@ The `Stroke paint` panel lets you set a stroke colour the same way you did for t
 You can even use gradients here, to create lines that fade into nothing.
 The next panel, `Stroke style` has more interesting options.
 
-First, it lets you set 
+First, it lets you set line widths and line styles.
+Try and define widths in physical units (pt, inch, mm) rather than pixels, and use only a handful of line widths in a single figure.
 
+If you're using a patterned line style, e.g. with dashes, you can use the `offset` controls to the right of the line style selector to tweak where the dashes fall:
+
+![img](./figures-2/fs-5.png)
+
+
+
+You can also add markers for the 
 
 
 
