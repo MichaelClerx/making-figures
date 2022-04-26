@@ -98,20 +98,6 @@ The rectangle should now show resizing handles.
 You can use these to transform the rectangle, or click again to get rotation handles.
 You can use drag & drop to move the rectangle around.
 
-![ink](./figures-2/snap-rect-move.png)
-
-But you can also use the arrow keys.
-If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle by exactly one grid distance.
-Use `Shift+Arrow key` to move it by 10 grid distances.
-
-After selecting an item with the cursor tool, you should also see mirror, flip and rotate buttons in the top toolbar (these let you mirror flip and rotate):
-
-![ink](./figures-2/moving-1.png)
-
-Finally, you can control which objects are displayed on top by changing their "Z-index", using the buttons indicated below:
-
-![ink](./figures-2/moving-2.png)
-
 ### Copy-pasting
 
 Now use `Ctrl+C` and `Ctrl+V` to create a copy of the rectangle.

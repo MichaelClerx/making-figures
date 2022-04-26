@@ -103,8 +103,12 @@ The more complicated the instruction, the less likely it is that the figure will
 
 ### Customising stroke style
 
-The "Stroke paint" panel lets you set a stroke colour the same way you did for the fill.
+The `Stroke paint` panel lets you set a stroke colour the same way you did for the fill.
 You can even use gradients here, to create lines that fade into nothing.
+The next panel, `Stroke style` has more interesting options.
+
+First, it lets you set 
+
 
 
 
@@ -125,6 +129,21 @@ You can even use gradients here, to create lines that fade into nothing.
 - Text
 
 ## Positioning
+
+![ink](./figures-2/snap-rect-move.png)
+
+But you can also use the arrow keys.
+If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle by exactly one grid distance.
+Use `Shift+Arrow key` to move it by 10 grid distances.
+
+After selecting an item with the cursor tool, you should also see mirror, flip and rotate buttons in the top toolbar (these let you mirror flip and rotate):
+
+![ink](./figures-2/moving-1.png)
+
+Finally, you can control which objects are displayed on top by changing their "Z-index", using the buttons indicated below:
+
+![ink](./figures-2/moving-2.png)
+
 
 - Organising
   - Grid
