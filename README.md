@@ -11,7 +11,8 @@ It's split into three parts:
    5. [Show, don't tell](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-5-show-and-tell.ipynb)
 2. Making diagrams with Inkscape, e.g. to visualise an experimental set-up or create a graphical abstract.
    1. [Getting started](2-1-getting-started.md)
-   2. [Shapes, colours, positioning](2-2-shapes-colours-positioning.md)
+   2. [Shapes, colours, and lines](2-2-shapes-colours-lines.md)
+   3. [Moving stuff about](2-3-positioning.md)
    5. [Annoyances](2-5-annoyances.md)
 3. Plotting data and functions with Matplotlib
 
