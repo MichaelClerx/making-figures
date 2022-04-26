@@ -171,6 +171,8 @@ For example, the alignment tool sometimes stops working, and sometimes settings 
 ## Fancy paths & bezier curves
 
 Let's draw an ion current!
+In particular, let's redraw something like the top-left figure in [this image](https://github.com/pints-team/pints/blob/master/example.svg).
+
 Select the line tool, and draw a path consisting of two line segments:
 
 ![img](./figures-2/ion-1.png)
