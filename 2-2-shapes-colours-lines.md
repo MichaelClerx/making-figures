@@ -81,10 +81,11 @@ For example, to set a simple "flat color" as shown above.
 The first thing you'll want to do, is set the colour picking tool to either [HSL or HSV](https://en.wikipedia.org/wiki/HSL_and_HSV).
 HSV is my favourite.
 In this mode of colour selection, you can quite easily find good colour combinations by leaving S (saturation) and V (for _value_, or brightness) fixed at their values, and simply varying H (hue).
-(*Note that the human concept of "colour" is a lot more complex than this, for example "pink" and "brown" are certain hue/brightness/saturation combinations, while "golden" includes shinyness and highlights and whatnot.)
+
+(*The human concept of "colour" is a lot more complex than this, for example "pink" and "brown" are certain hue/brightness/saturation combinations, while "golden" includes shinyness and highlights and whatnot.)
 
 The fourth slider lets you set the "alpha" or transparency value.
-This can give some nice effects, but requires some caution: many journals only accept `EPS` for vector graphics, and EPS does not support transparency.
+This can give some nice effects, but don't get carried away: many journals only accept the `EPS` format for vector graphics, which doesn't support transparency.
 
 At the bottom right you'll find an RGBA field where you can enter HEX codes.
 This is particularly useful if you want to copy-paste colour values from other software.
