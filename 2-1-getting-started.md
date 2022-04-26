@@ -65,6 +65,7 @@ Then go to `File > Document Properties`, find the `Page` tab, and set `Display u
 
 Set a figure width.
 I often use 170mm for a two-column figure.
+Don't worry about the height, we can set that when the figure's done.
 
 Now find the `Grids` tab and click `New` to add a new rectangular grid.
 
