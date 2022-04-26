@@ -192,9 +192,10 @@ You can move these about to mess with the curvature:
 
 ![img](./figures-2/ion-4.png)
 
-Like nodes, handles can "snap" to the grid, so that we can set them with some precision.
-The angle that a handle makes with its node determines the curvature at one of the line line segment.
-The lengths of the handles determine the weighting between the line segment's two curvatures.
+Like nodes, handles can "snap" to the grid, so that we can set them systematically.
+At each end, the line segment will be tangential to its handles.
+In between, the curvature varies smoothly, at a rate set by the ratio between the handle lengths.
+
 We can mess around a bit until we have something almost acceptable:
 
 ![img](./figures-2/ion-5.png)
