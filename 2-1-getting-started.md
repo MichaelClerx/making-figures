@@ -13,8 +13,7 @@ It has some pretty amazing capabilities, but you might also encounter some glari
   - Alternatives are costly (240 a year to adobve, for you [and your collaborators](https://en.wikipedia.org/wiki/Vendor_lock-in)).
 
 ![ink](./figures-2/hello.png)
-
-👆 Inkscape's user interface, on a Gnome/Fedora linux OS.
+Inkscape's user interface, on a Gnome/Fedora linux OS.
 
 
 
