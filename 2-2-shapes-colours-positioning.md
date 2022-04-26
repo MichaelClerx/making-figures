@@ -58,32 +58,38 @@ Depending on what your "Fill" and "Stroke" colours are, you should get something
 
 ![ink](./figures-2/lines-1.png)
 
+## Fill and stroke
+
+Now let's play with fill and stroke in a bit more detail.
+Clear the page (select items and hit `delete`, or use `Ctrl+A` to select all and hit delete just once).
+Now use the line tool to draw a complex shape, with some sharp corners. E.g.:
 
 
-
-
-
-### Positioning and snapping
-
-- Move, snap to different bits
-- Z-index
-
-
-
-- Rectangles, circles, text
-  - Align & distribute
-  - Z-index
 - Stroke & fill
   - Copy-paste a style with Ctrl-Shift-V
   - Gradients? (Careful!)
   - Line endings (arrows)
   - Cap, join, order
-- Paths & curves, bezier curves
-  - Edit path
-  - "Cornering" settings
-  - Path intersection for zoom plots
-- Text
-  - Text should never have a stroke
-  - Make this default in preferences
+
+## Fancy paths & bezier curves
+- Edit path
+- "Cornering" settings
 - Fun trick: noisy data
-- Guides
+- Fun trick: Path intersections
+
+## Text
+
+- Text
+
+## Positioning
+
+- Organising
+  - Grid
+  - Move, snap to different bits
+  - Z-index
+  - Align & distribute
+  - Guides
+
+
+
+
