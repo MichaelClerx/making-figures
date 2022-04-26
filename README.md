@@ -4,11 +4,11 @@ This repo contains a bunch of tips and opinion on scientific figure making, usin
 It's split into three parts:
 
 1. General tips:
-   1. [Plan your figures](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/examples/1-1-have-a-plan.ipynb) (start with a sketch)
-   2. [Design for papers, not for screens](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/examples/1-2-design-for-papers.ipynb) (start from a fixed width)
-   3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/examples/1-3-vector-and-raster.ipynb)
-   4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/examples/1-4-visual-language.ipynb)
-   5. [Show, don't tell](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/examples/1-5-show-and-tell.ipynb)
+   1. [Plan your figures](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-1-have-a-plan.ipynb) (start with a sketch)
+   2. [Design for papers, not for screens](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-2-design-for-papers.ipynb) (start from a fixed width)
+   3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-3-vector-and-raster.ipynb)
+   4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-4-visual-language.ipynb)
+   5. [Show, don't tell](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-5-show-and-tell.ipynb)
 2. [Making diagrams with Inkscape](./2-making-diagrams-with-inkscape.md), e.g. to visualise an experimental set-up or create a graphical abstract.
 3. [Plotting data and functions with Matplotlib](./3-plotting-with-matplotlib.ipynb).
 
