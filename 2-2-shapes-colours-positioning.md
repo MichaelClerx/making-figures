@@ -52,8 +52,16 @@ Use the toolbar buttons to change the way fill & stroke is applied to semi-circl
 
 ![ink](./figures-2/circle-3.png)
 
-## Drawing paths
-LINES
+Now let's try the line tool.
+Holding `Ctrl` lets you draw horizontal or vertical lines.
+Depending on what your "Fill" and "Stroke" colours are, you should get something like these:
+
+![ink](./figures-2/lines-1.png)
+
+
+
+
+
 
 ### Positioning and snapping
 
@@ -66,14 +74,16 @@ LINES
   - Align & distribute
   - Z-index
 - Stroke & fill
-  - Text should never have a stroke
   - Copy-paste a style with Ctrl-Shift-V
   - Gradients? (Careful!)
   - Line endings (arrows)
   - Cap, join, order
-- Paths & curves
+- Paths & curves, bezier curves
   - Edit path
   - "Cornering" settings
   - Path intersection for zoom plots
+- Text
+  - Text should never have a stroke
+  - Make this default in preferences
 - Fun trick: noisy data
 - Guides
