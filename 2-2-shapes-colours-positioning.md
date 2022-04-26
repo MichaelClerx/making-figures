@@ -103,12 +103,12 @@ The more complicated the instruction, the less likely it is that the figure will
 
 ### Customising stroke style
 
+The "Stroke paint" panel lets you set a stroke colour the same way you did for the fill.
+You can even use gradients here, to create lines that fade into nothing.
 
 
 
 
-
-  - Gradients? (Careful!)
   - Line endings (arrows)
   - Cap, join, order
 - Copy-paste a style with Ctrl-Shift-V
