@@ -52,6 +52,22 @@ Use the toolbar buttons to change the way fill & stroke is applied to semi-circl
 
 ![ink](./figures-2/circle-3.png)
 
+### Mirror, rotate, and flip
+
+If you switch back to the cursor tool and select a circle, the top toolbar should also show you buttons to flip, mirror, and rotate your shape:
+
+![ink](./figures-2/moving-1.png)
+
+### Z-index
+
+Make a few copies of your item (remember to use Ctrl+Alt+V if you want to copy the position too), and 
+move them so that they overlap.
+You can control which objects is shown on top with the z-index controls, indicated below:
+
+![ink](./figures-2/moving-2.png)
+
+## Drawing lines
+
 Now let's try the line tool.
 Pick a first point, and then a second, third, and so on.
 Holding `Ctrl` lets you draw horizontal or vertical line segments.
