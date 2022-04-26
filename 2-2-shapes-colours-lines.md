@@ -100,14 +100,14 @@ Now you can change the gradient orientation, and change the colour associated wi
 
 ![img](./figures-2/fs-4.png)
 
-A drawback of using fancier rendering options like these is that the gradient will have to be created by any viewer or printer that renders the file.
+A drawback of using fancier rendering options like these is that the gradient will have to be recreated by any viewer or printer that renders the file.
 The more complicated the instruction, the less likely it is that the figure will always render the same.
 
 ### Customising stroke style
 
 The `Stroke paint` panel lets you set a stroke colour the same way you did for the fill.
 You can even use gradients here, to create lines that fade into nothing.
-The next panel, `Stroke style` has more interesting options.
+The next panel, `Stroke style` has more useful options.
 
 First, it lets you set line widths and line styles.
 Try and define widths in physical units (pt, inch, mm) rather than pixels, and use only a handful of line widths in a single figure.
@@ -184,10 +184,10 @@ Do this for both lines:
 
 ![img](./figures-2/ion-3.png)
 
-Hurray! We've turned out straight line into a [Bezier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
+Hurray! We've turned our straight line into a [Bezier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
 The current selection shows 3 "nodes", connected by 2 "segments".
-If we click one of the line segments again, Inkscape will also show the "handles" at each node (indicated by circles).
+If we click one of the line segments again, Inkscape will also show the "handles" at each node (lines ending in open circles).
 You can move these about to mess with the curvature:
 
 ![img](./figures-2/ion-4.png)
