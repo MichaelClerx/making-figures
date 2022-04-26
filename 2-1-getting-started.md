@@ -6,11 +6,11 @@ It uses the SVG format by default, but can open and export to several other form
 
 Like most free software, it combines amazing capabilities with the occasional glaring bug.
 
-Use Ctrl+S to save as a matter of habit.
-- If it does crash, it will sometimes make a back-up first.
-- SVG is plain text, it works reasonably well with `git`. But forget about diff'ing, unless you have some kind of git XML extension installed.
-- You can bother one of the maintainers on twitter. Just use the word "inkscape" and eventually he'll show up.
-- Alternatives are costly (e.g. 240 a year to adobe, for you [and your collaborators](https://en.wikipedia.org/wiki/Vendor_lock-in)).
+- Use Ctrl+S to save as a matter of habit.
+  - If it does crash, it will sometimes make a back-up first.
+  - SVG is plain text, it works reasonably well with `git`. But forget about diff'ing, unless you have some kind of git XML extension installed.
+  - You can bother one of the maintainers on twitter. Just use the word "inkscape" and eventually he'll show up.
+  - Alternatives are costly (e.g. 240 a year to adobe, for you [and your collaborators](https://en.wikipedia.org/wiki/Vendor_lock-in)).
 
 ![ink](./figures-2/hello.png)
 Inkscape 1.1.2, running on Gnome/Fedora.
