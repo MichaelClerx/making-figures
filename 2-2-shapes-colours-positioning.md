@@ -119,15 +119,32 @@ You can also add markers for the start, middle, and end of a line:
 Unfortunately, this requires you to remember which was the start and end when you drew the line.
 And arrow heads don't coincide with line endings, so some tweaking is often required to get nice results.
 
+The `join` control lets you choose how corners are handled:
 
+![img](./figures-2/fs-7.png)
 
+And the `cap` buttons let you control line ends:
 
+![img](./figures-2/fs-8.png)
 
+Note that the three lines above have the same endpoints, and differ only in style.
 
-  - Line endings (arrows)
-  - Cap, join, order
-- Copy-paste a style with Ctrl-Shift-V
-  
+Finally, if you mix fill and stroke (and start/mid/end markers), you can control their exact z-ordering with the last six buttons:
+
+![img](./figures-2/fs-9.png)
+
+In this figure the same object is drawn twice.
+Once with the stroke above the fill (left), and once with the fill above the stroke (right).
+
+### Copy-pasting style
+
+Styles can be copied and pasted!
+
+To do this, select an item, copy it (`Ctrl+V`), select another item, and paste on the style using `Ctrl+Shift+V`.
+
+This is particularly useful after resizing things (which scales line widths too).
+
+For whatever reason, advanced properties such as stroke/fill z-order can not be copied this way.
 
 ## Fancy paths & bezier curves
 - Edit path
