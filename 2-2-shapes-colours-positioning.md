@@ -66,10 +66,11 @@ Now use the line tool to draw a complex shape, with some sharp corners. E.g.:
 
 
 - Stroke & fill
-  - Copy-paste a style with Ctrl-Shift-V
   - Gradients? (Careful!)
   - Line endings (arrows)
   - Cap, join, order
+- Copy-paste a style with Ctrl-Shift-V
+  
 
 ## Fancy paths & bezier curves
 - Edit path
