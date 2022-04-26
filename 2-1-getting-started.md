@@ -41,7 +41,7 @@ Next, make sure that "snapping" is enabled by default:
 
 Enable all toolbars:
 
-![ink](./figures-2/confs-dialogs.png)
+![ink](./figures-2/conf-dialogs.png)
 
 ### Configuring "step sizes"
 
@@ -70,11 +70,12 @@ Now find the `Grids` tab and click `New` to add a new rectangular grid.
 
 It should appear with the default settings you just configured.
 
+Note that you can set a non-zero origin for the grid.
+This can be useful to make the grid start a few mm from the edge of the "paper".
 
+### Drawing a rectangle and moving it around
 
-
-# Stuff
-![ink](./figures-2/prefs-steps-grid.png)
+Now we're going to draw a rectangle on the grid.
 
 On the right, in the snap toolbar, enable snapping to grids:
 
@@ -85,35 +86,31 @@ Also make sure snapping is enabled:
 ![ink](./figures-2/snap-enable.png)
 
 Now zoom in on the document (using Ctrl + scroll wheel), until you can see the minor grid lines.
-Find the rectangle tool in the left toolbar, and draw a rectangle onto the grid points
+Find the rectangle tool in the left toolbar, and draw a rectangle onto the grid points:
 
+![ink](./figures-2/snap-rect.png)
 
+Now go back to the cursor tool (top-left).
+The rectangle should now show move & resize handles.
+You can use these to transform the rectangle, or you can drag & drop the rectangle to move it around.
 
+![ink](./figures-2/snap-rect-move.png)
 
+But you can also use the arrow keys.
+If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle exactly by exactly one grid distance.
+Use `Shift+Arrow key` to move it by 10 grid distances.
 
-The "origin"
+### Copy-pasting
 
-- grid
-- steps
+Now use `Ctrl+C` and `Ctrl+V` to create a copy of the rectangle.
+Weirdly, the rectangle appears in a slightly random place.
+You can drag-and-drop it back onto the grid with the mouse.
 
-Incomplete list of things I like to do first:
+Alternatively (and this is really useful!), use `Ctrl+Alt+V` to paste the copy _in exactly the same place_.
+You now have two perfectly overlapping rectangles, so you can only see one...
+Use `Shift+Arrow keys` to move it to a new grid position.
+Click a colour at the bottom of the screen to make the rectangle change colour.
+Repeat a few times to draw a multicoloured tetris block:
 
-
-- On the "Grids" tab, add a nice rectangular grid e.g. with steps every 0.5mm and a thicker line every 2.5mm
-- You can configure your grid as default in "Preferences"
-- Another thing to look at in "Preferences" is Behaviour > Steps. Set this to the same as your grid so that arrow keys or Shift+Arrow keys move the objects without going off the grid.
-- Make sure you have "snap" settings as in the tutorial above.
-
-- Start with a fixed width. 
-  - Use sensible font size e.g. 10.
-  - Can even use same font as article?
-
-
-### Starting a first document
-
-- Open `File > Document Properties`, and set the "Display units" to "mm" (or inches)
-- Set the width to whatever width the journal uses for a 2-column figure
-- Set the height to something bigger - you'll adjust this later
-
-- Enable the grid
+![ink](./figures-2/snap-rect-done.png)
 
