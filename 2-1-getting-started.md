@@ -1,4 +1,4 @@
-# Making diagrams with Inkscape
+# Inkscape: Getting started
 
 [Inkscape](https://inkscape.org/) is an open source tool to make [vector art](https://en.wikipedia.org/wiki/Vector_graphics).
 "Ink", from octopusses, "scape" from land/sea/sound-scape.
@@ -118,3 +118,4 @@ Repeat a few times to draw a multicoloured tetris block:
 
 ![ink](./figures-2/snap-rect-done.png)
 
+Hurray! You've mastered the basics.
