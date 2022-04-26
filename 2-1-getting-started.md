@@ -1,8 +1,10 @@
 # Making diagrams with Inkscape
 
-Inkscape is an open source tool to create vector art.
+[Inkscape](https://inkscape.org/) is an open source tool to create vector art.
+"Ink", from octopusses, "scape" from land/sea/sound-scape.
+On linux, install with `dnf` or `apt-get`.
 
-It uses the SVG format by default, but can open and export to several other formats.
+Inkscape uses the SVG format by default, but can open and export to several other formats.
 
 Like most free software, it combines amazing capabilities with the occasional glaring bug.
 
