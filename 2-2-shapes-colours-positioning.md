@@ -112,9 +112,14 @@ If you're using a patterned line style, e.g. with dashes, you can use the `offse
 
 ![img](./figures-2/fs-5.png)
 
+You can also add markers for the start, middle, and end of a line:
+
+![img](./figures-2/fs-6.png)
+
+Unfortunately, this requires you to remember which was the start and end when you drew the line.
+And arrow heads don't coincide with line endings, so some tweaking is often required to get nice results.
 
 
-You can also add markers for the 
 
 
 
