@@ -188,7 +188,7 @@ I ended up with this:
 
 ![img](./figures-2/ion-b-12.png)
 
-Notice how it no longer a single continuous line, but Inkscape still considers it one "Path".
+Notice how it's no longer a single continuous line, but Inkscape still considers it one "Path".
 (You can change this using the `Combine` and `Break apart` options in the `Path` menu).
 
 Select the path with the cursor tool, and use the arrow keys to move it up, until it overlaps with the smooth line segment.
@@ -205,12 +205,25 @@ The rescaling has messed with our line widths, so use the `Fill and stroke` dial
 In the example below I've deliberately kept the two "data" lines thicker than in the original, to emphasise the idea that this is a zoomed in view.
 You may also want to increase the saturation and slightly the noisy trace, to reinforce the idea that we're seeing it up close and in focus now.
 
-![img](./figures-2/ion-b-14.png)
+![img](./figures-2/ion-b-15.png)
 
 Finally, draw two lines approximately tangential to both circles, and use the copy-style method (`Ctrl+Shift+V`) to give them the same styling as the circles.
 This will take a bit of trial and error (and a lot of zooming in and out) to get right.
 Make sure you disable snapping for this step!
 
-![img](./figures-2/ion-b-15.png)
+![img](./figures-2/ion-b-16.png)
+
+Finally, you might see little white kinks in your zoomed in noisy line.
+These can occur where the line overlaps itself.
+Zoom in to see what's going on:
+
+![img](./figures-2/ion-b-17.png)
+
+Looks like there's nodes with handles pointing in odd places.
+In some cases you can fix these by selecting the offending node and click `Make nodes auto smooth`.
+For others it might be better to adjust the handles manually, or delete the node altogether.
+Repeat for any little glitches until you are satisfied with the result:
+
+![img](./figures-2/ion-b-18.png)
 
 Done!
