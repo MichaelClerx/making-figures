@@ -88,6 +88,8 @@ Next, resize the image until it approximately fits.
 Maybe it wasn't such a bad effort after all.
 Make a few tweaks and delete the image again.
 
+## Using extensions to emulate a noisy signal
+
 Now let's use some of Inkscape's crazier features.
 
 First, we'll need a back up.
@@ -120,3 +122,95 @@ You may also want to reduce the stroke size of the noisy curve.
 
 Congratulations! You've fitted an ion current 🤔
 
+## Comparing paths to create a "zoom" effect.
+
+Next, we'll create a little zoom panel.
+
+First, draw a little circle on an area you want to zoom in on, and set a nice stroke (no fill):
+
+![img](./figures-2/ion-b-1.png)
+
+Next, select all three parts (smooth line, noisy line, circle), copy and paste-in-place (`Ctrl+Alt+V`), and move the copies some distance away with `Shift+Arrow keys`.
+We'll do it this way instead of with the mouse, so that we can repeat the exact same movements later!
+Do this twice, to create two copies:
+
+![img](./figures-2/ion-b-2.png)
+
+Now zoom in on one of the copies, and delete the noisy line:
+
+![img](./figures-2/ion-b-3.png)
+
+Select the circle and smooth line, and select `Path > Intersection` from the menu:
+
+![img](./figures-2/ion-b-4.png)
+
+We've created a new path, consisting only of the two object's insersection.
+However, it also includes a little bit of circle that we don't need, so we'll need to edit the path to chop it off.
+Zoom in (e.g. Ctrl + scroll wheel), select the path editing tool (top left), and click the path:
+
+![img](./figures-2/ion-b-5.png)
+
+There are two nodes we don't need, and three segments that we want to delete.
+The easiest way to go about this is to start by selecting one of the segments we don't want (you can drag it around a bit if you like, to see what you've selected), and then clicking `Delete segment between two non-endpoint nodes`:
+
+![img](./figures-2/ion-b-6.png)
+
+If succesful, you should have made a gap in the line:
+
+![img](./figures-2/ion-b-7.png)
+
+Now you can simply select the unwanted nodes and click `Delete selected nodes`:
+
+![img](./figures-2/ion-b-8.png)
+
+This gives us the line segment we were after.
+It looks almost straight in this example!
+However, we've also deleted the "magnifying glass" circle in the process.
+
+Scroll over to the original lines, select the circle, copy and paste-in-place, and move it down with `Shift + arrow keys`:
+
+![img](./figures-2/ion-b-9.png)
+
+Use the z controls to place the circle "above" the line segment:
+
+![img](./figures-2/ion-b-10.png)
+
+First part done!
+Now scroll down to the noisy line, and start repeating the process:
+
+![img](./figures-2/ion-b-11.png)
+
+Looks like this one's going to be a little harder...
+Set about deleting segments and nodes until you get an acceptable result.
+Maybe save the image first and remember you can undo/redo your actions.
+
+I ended up with this:
+
+![img](./figures-2/ion-b-12.png)
+
+Notice how it no longer a single continuous line, but Inkscape still considers it one "Path".
+(You can change this using the `Combine` and `Break apart` options in the `Path` menu).
+
+Select the path with the cursor tool, and use the arrow keys to move it up, until it overlaps with the smooth line segment.
+Use the z-controls to get the ordering right:
+
+![img](./figures-2/ion-b-13.png)
+
+Now select all three parts, and use the transform handles at the side to scale them up!
+Drag and drop the new bits to a nice-looking place (you can disable `snap` for this part).
+
+![img](./figures-2/ion-b-14.png)
+
+The rescaling has messed with our line widths, so use the `Fill and stroke` dialog to adjust them
+In the example below I've deliberately kept the two "data" lines thicker than in the original, to emphasise the idea that this is a zoomed in view.
+You may also want to increase the saturation and slightly the noisy trace, to reinforce the idea that we're seeing it up close and in focus now.
+
+![img](./figures-2/ion-b-14.png)
+
+Finally, draw two lines approximately tangential to both circles, and use the copy-style method (`Ctrl+Shift+V`) to give them the same styling as the circles.
+This will take a bit of trial and error (and a lot of zooming in and out) to get right.
+Make sure you disable snapping for this step!
+
+![img](./figures-2/ion-b-15.png)
+
+Done!
