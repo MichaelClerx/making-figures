@@ -207,20 +207,20 @@ You may also want to increase the saturation and slightly the noisy trace, to re
 
 ![img](./figures-2/ion-b-15.png)
 
-Finally, draw two lines approximately tangential to both circles, and use the copy-style method (`Ctrl+Shift+V`) to give them the same styling as the circles.
+Draw two lines approximately tangential to both circles, and use the copy-style method (`Ctrl+Shift+V`) to give them the same styling as the circles.
 This will take a bit of trial and error (and a lot of zooming in and out) to get right.
 Make sure you disable snapping for this step!
 
 ![img](./figures-2/ion-b-16.png)
 
-Finally, you might see little white kinks in your zoomed in noisy line.
-These can occur where the line overlaps itself.
+At this stage you might see little white spots in your noisy line.
+These can occur where a path overlaps with itself.
 Zoom in to see what's going on:
 
 ![img](./figures-2/ion-b-17.png)
 
-Looks like there's nodes with handles pointing in odd places.
-In some cases you can fix these by selecting the offending node and click `Make nodes auto smooth`.
+Looks like there's nodes with handles pointing in odd directions.
+In some cases you can fix these by selecting the offending node and clicking `Make nodes auto smooth`.
 For others it might be better to adjust the handles manually, or delete the node altogether.
 Repeat for any little glitches until you are satisfied with the result:
 
