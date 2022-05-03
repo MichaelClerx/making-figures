@@ -12,10 +12,11 @@ It's split into three parts:
 2. Making diagrams with Inkscape, e.g. to visualise an experimental set-up or create a graphical abstract.
    1. [Getting started](2-1-getting-started.md)
    2. [Shapes, colours, text, and lines](2-2-shapes-colours-lines.md)
-   3. [Paths](2-3-paths.md)
-   4. [Positioning and layout](2-4-positioning-and-layout.md)
-   5. [Saving and exporting](2-5-save-and-export.md)
-   6. [Annoyances](2-5-annoyances.md)
+   3. [More drawing](2-3-more-drawing.md)
+   4. [Paths](2-4-paths.md)
+   5. [Layout](2-5-layout.md)
+   6. [Saving and exporting](2-5-save-and-export.md)
+   7. [Annoyances](2-5-annoyances.md)
 3. Plotting data and functions with Matplotlib
 
 Disclaimer: 

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="100mm"
+   viewBox="0 0 170 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     width="170mm"
+     inkscape:snap-global="true"
+     inkscape:zoom="3.2426491"
+     inkscape:cx="137.85025"
+     inkscape:cy="70.467075"
+     inkscape:window-width="1089"
+     inkscape:window-height="750"
+     inkscape:window-x="50"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       id="rect848"
+       width="12.5"
+       height="12.5"
+       x="2.5"
+       y="2.5" />
+    <circle
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       id="path872"
+       cx="26.25"
+       cy="8.75"
+       r="6.25" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="M 37.499999,7.5 V 10 l 5,5 h 2.5 L 50,10 V 7.5 l -5,-5 -2.5,0 z"
+       id="path907"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000;stroke-linejoin:round"
+       d="m 55,5 v 7.5 h 2.499998 V 15 h 7.500001 v -2.5 h 2.5 V 5 h -2.5 V 2.5 H 57.499998 V 5 Z"
+       id="path1126" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="M 59.999998,7.5 V 10 h 2.500001 V 7.5 Z"
+       id="path1128" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="m 50,20 v 12.5 h -3 l -7,-9 2e-6,9 h -2.5 V 20 h 2.5 H 40.5 l 7,9 v -9 z"
+       id="path1243"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="m 2.5,30 c 0.4828766,-5.353921 1.8270819,-10.097276 10,-10 -0.580685,2.070856 -0.666661,4.000302 2.5,5 -4.907327,0.953874 -7.6923623,3.270807 -7.5,7.5 C 6.343668,30.604873 5.5336549,27.989201 2.5,30 Z"
+       id="path3038"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="M 20.034377,32.37231 C 22.298297,23.704605 25.732881,20.416327 32.5,32.5 L 30,20 c -2.726864,5.883082 -5.003289,0.08528 -7.5,0 z"
+       id="path3362"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dashoffset:647.879;-inkscape-stroke:none;stop-color:#000000"
+       d="m 55,32.5 0,-5 c 0,-5 5,0 7.5,-7.5 h 4.999999 C 65,22.5 65,25 67.499999,27.5 67.5,30 65,32.5 62.499999,32.5 60,30 57.5,30 55,32.5 Z"
+       id="path3883"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
