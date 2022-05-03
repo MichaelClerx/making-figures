@@ -4,7 +4,7 @@
 
 Using the grid lets you easily draw shapes that are similar sizes, and look "tidy", if not very artistic.
 
-![img](./figures-2/shapes.svg)
+![img](./figures-2/shapes.png)
 
 ## Going off the grid
 
