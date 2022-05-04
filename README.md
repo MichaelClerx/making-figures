@@ -19,8 +19,16 @@ It's split into three parts:
    7. [Annoyances](2-7-annoyances.md)
 3. Plotting data and functions with Matplotlib
 
-Disclaimer: 
+## Disclaimer
+
 - This is not a step-by-step guide to either tool. Detailed technical information and several tutorials are already available on line.
 - I am not an expert on any of this. There are books and websites and academic degrees in graphic design and communication.
-- Few papers address scientific figure making directly ([says google](https://scholar.google.com/scholar?q=scientific+figures)).
-  This is a good one: [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
+- Few papers that I know of address scientific figure making directly ([google scholar](https://scholar.google.com/scholar?q=scientific+figures)), although there are loads on colours, perception, etc.
+  A few interesting ones are listed below.
+
+## References
+
+- General figure making: [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
+- Colour maps:
+  - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
+  - Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color
