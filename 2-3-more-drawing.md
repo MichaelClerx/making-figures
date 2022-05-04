@@ -29,11 +29,22 @@ I've used different stroke colours to differentiate tops and sides from the orig
 
 ![img](./figures-2/shapes-3d-4.png)
 
+For the remaining two parts we need something slightly more complicated.
+Select "Snap to path intersections" from the snapping toolbar and add in the shape top-right...
+
 ![img](./figures-2/shapes-3d-5.png)
+
+...and bottom left.
+You can now delete the plus at the back (it's fully obscured by the other shapes), and use `Ctrl+Shift+V` to give all parts the same style.
 
 ![img](./figures-2/shapes-3d-6.png)
 
+Finally, choose a strong fill colour for the plus in the front.
+Then use the "S" or "V" controls to select a weaker colour for the sides, and one for the tops.
+
 ![img](./figures-2/shapes-3d-7.png)
+
+There's more snapping options, e.g. snapping to object centers:
 
 ![img](./figures-2/shapes-3d-8.png)
 
