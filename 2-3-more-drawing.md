@@ -85,8 +85,8 @@ We'll now draw a little kinetic scheme (or "Markov model"), starting from the sk
 
 ![img](./figures-2/markov-1.jpg)
 
-We'll start with the text in a 10pt font.
-This gives us a sense of scale!
+Start by adding the text in a 10pt font (using a separate text object for every label).
+This gives us a sense of scale.
 
 ![img](./figures-2/markov-2.png)
 
@@ -136,16 +136,21 @@ Now we can rotate the group of two arrows, preserving their original relationshi
 
 The convention for the arrow orientation here is that in any loop there should be an "inner loop" and "outer loop" where all arrows point in the same direction.
 
-If you like, you can ungroup them again with `Ctrl+Shift+G`.
+If you like, ungroup the arrows again with `Ctrl+Shift+G`.
 
-Some more copy-pasting and 
+Some more copy-pasting and we have arrows everywhere:
 
 ![img](./figures-2/markov-11.png)
+
+Again, this looks a bit off.
+In fact, since the group of arrows is three grid units wide, we can't center it using the grid!
+We can solve this by choosing a finer grid, using "Align", or by manual tweaking:
+
 ![img](./figures-2/markov-12.png)
+
+These arrows look more cramped than the horizontal ones, and by rotating our spacer we can easily see why.
+We could solve this by making the arrows shorter (by editing their paths, not by rescaling) or by spacing the rows further apart, but in this example we'll leave it as it is.
+
+
 ![img](./figures-2/markov-13.png)
-![img](./figures-2/markov-14.png)
-![img](./figures-2/markov-15.png)
-![img](./figures-2/markov-16.png)
-![img](./figures-2/markov-17.png)
-![img](./figures-2/markov-18.png)
 
