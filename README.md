@@ -14,9 +14,8 @@ It's split into three parts:
    2. [Shapes, colours, text, and lines](2-2-shapes-colours-lines.md)
    3. [More drawing](2-3-more-drawing.md)
    4. [Paths](2-4-paths.md)
-   5. [Layout](2-5-layout.md)
-   6. [Saving and exporting](2-6-save-and-export.md)
-   7. [Annoyances](2-7-annoyances.md)
+   5. [Saving and exporting](2-5-save-and-export.md)
+   6. [Annoyances](2-6-annoyances.md)
 3. Plotting data and functions with Matplotlib
 
 ## Disclaimer

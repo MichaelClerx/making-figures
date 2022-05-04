@@ -149,8 +149,11 @@ We can solve this by choosing a finer grid, using "Align", or by manual tweaking
 ![img](./figures-2/markov-12.png)
 
 These arrows look more cramped than the horizontal ones, and by rotating our spacer we can easily see why.
-We could solve this by making the arrows shorter (by editing their paths, not by rescaling) or by spacing the rows further apart, but in this example we'll leave it as it is.
-
 
 ![img](./figures-2/markov-13.png)
+
+We could solve this by making the arrows shorter (by editing their paths, not by rescaling) or by spacing the rows further apart, but in this example we'll leave it as it is.
+
+![img](./figures-2/markov-14.png)
+
 
