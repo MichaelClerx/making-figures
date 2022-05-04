@@ -57,14 +57,14 @@ In the example below I've made three copies of a circle (without using the grid)
 
 ![img](./figures-2/distr-1.png)
 
-Select them all and click "Center on horizontal axis":
+Select them all and click `Center on horizontal axis`:
 
 ![img](./figures-2/distr-2.png)
 
 Note the `Relative to: first selected` setting in the dialog.
-I selected the circle on the left first, so all circles get its y
+I selected the circle on the left first, so all circles get its y coordinate.
 
-And then "Distribute centers equidistantly horizontally":
+Next, `Distribute centers equidistantly horizontally`:
 
 ![img](./figures-2/distr-3.png)
 
