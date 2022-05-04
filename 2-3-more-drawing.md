@@ -50,9 +50,34 @@ There's more snapping options, e.g. snapping to object centers:
 
 ## Distribute and align
 
-DISTRIBUTING 3 BOXES
+The "Align and Distribute" dialog lets you change objects positions (to distribute or align them).
+Open it by selecting `Object > Align and Distribute` from the menu, or with `Ctrl+Shift+A`.
 
-CENTERING TEXT IN BOX (justification!)
+In the example below I've made three copies of a circle (without using the grid).
+
+![img](./figures-2/distr-1.png)
+
+Select them all and click "Center on horizontal axis":
+
+![img](./figures-2/distr-2.png)
+
+Note the `Relative to: first selected` setting in the dialog.
+I selected the circle on the left first, so all circles get its y
+
+And then "Distribute centers equidistantly horizontally":
+
+![img](./figures-2/distr-3.png)
+
+You can use the same tools to place text in the center of objects, but it doesn't always work brilliantly (for short texts the object's center doesn't match its visual centre very well).
+Before tweaking:
+
+![img](./figures-2/distr-4.png)
+
+And after some tweaking with the left & right arrows:
+
+![img](./figures-2/distr-5.png)
+
+Use `Alt+Arrow key` to make very small adjustments.
 
 ## Example: Drawing a kinetic scheme
 

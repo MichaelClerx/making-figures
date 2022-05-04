@@ -88,6 +88,7 @@ Now use the line tool to draw a shape, e.g.:
 Now open the `Fill and Stroke` dialog. 
 You might already see it on the right of your screen, perhaps after toggling the dialogs on/off with F12.
 If not, use the menu open `Objects > Fill and Stroke`.
+Or if you want to feel like a pro, use `Ctrl+Shift+F` to open this dialog.
 
 ![ink](./figures-2/fs-2.png)
 

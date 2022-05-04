@@ -104,6 +104,12 @@ But you can also use the arrow keys.
 If the settings above were applied correctly, a single tap on an arrow key should now move the rectangle by exactly one grid distance.
 Use `Shift+Arrow key` to move it by 10 grid distances.
 
+### Zooming in and out
+
+Use Ctrl+Scroll wheel to zoom in or out, in a direction set by the cursor location.
+To see the whole page, press `5`.
+To see it 1:1 (based on your screen's reported PPI?), press `1`.
+
 ### Copy-pasting
 
 Now use `Ctrl+C` and `Ctrl+V` to create a copy of the rectangle.
