@@ -4,12 +4,12 @@
 "Ink", from octopusses, "scape" from land/sea/sound-scape.
 On linux, install with `dnf` or `apt-get`.
 
-Inkscape uses the SVG format by default, but can open and export to several other formats.
+Inkscape favours the SVG format, but can handle several others.
 
 Like most free software, it combines amazing capabilities with the occasional glaring bug.
 
 - Use Ctrl+S to save as a matter of habit.
-  - If it does crash, it will sometimes make a back-up first.
+  - If Inkscape does crash, it will sometimes make a back-up first.
   - SVG is plain text, it works reasonably well with `git`. But forget about diff'ing, unless you have some kind of git XML extension installed.
   - You can bother one of Inkscape's maintainers on twitter. Just use the word "inkscape" and within a week or so he'll show up.
   - Alternatives are costly (e.g. 240 a year to adobe, for you [and your collaborators](https://en.wikipedia.org/wiki/Vendor_lock-in)).
