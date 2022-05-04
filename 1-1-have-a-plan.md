@@ -4,8 +4,8 @@ Making figures is much easier when you have a plan.
 
 Unless you have a very clear idea in your mind (e.g. from preliminary work or other publications), use pen and paper to do some "rapid prototyping".
 
-- Sketching on paper is much faster than using keyboard & mouse.
-- Sketching helps you spot problems early.
+- Much faster than using keyboard & mouse.
+- Helps you spot problems early.
 - Knowing the layout tells you what size each component is going to be, which lets you draw it with appropriate line widths, fonts, level of detail etc.
 
 ## Examples
@@ -15,13 +15,14 @@ Unless you have a very clear idea in your mind (e.g. from preliminary work or ot
 ![img](./figures-1/sketch-imagined-data.jpg)
 
 Example sketch including some imaginary data.
-Drawing the results you expect can help you work out appropriate analyses.
+Drawing the expected results helps you work out the appropriate analyses.
 
 ### Complex layouts
 
 ![img](./figures-1/sketch-complex-layout.jpg)
 
-Complex layouts take forever to set up, so try them all out on paper first. I ran out of steam around the 4th row, which was a clear sign I needed to rethink this figure.
+Complex layouts take forever to set up digitally, so try them all out on paper first.
+I ran out of steam around the 4th row: a clear sign that I needed to rethink this figure.
 
 ### Diagrams
 
