@@ -8,7 +8,7 @@ It's split into three parts:
    2. [Design for papers, not for screens](1-2-design-for-papers.md) (start from a fixed width)
    3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-3-vector-and-raster.ipynb)
    4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-4-visual-language.ipynb)
-   5. [Show, don't tell](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-5-show-and-tell.ipynb)
+   5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-5-show-your-workings.ipynb)
 2. Making diagrams with Inkscape, e.g. to visualise an experimental set-up or create a graphical abstract.
    1. [Getting started](2-1-getting-started.md)
    2. [Shapes, colours, text, and lines](2-2-shapes-colours-lines.md)
