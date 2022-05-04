@@ -2,12 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="45mm"
+   width="170mm"
    height="45mm"
-   viewBox="0 0 45 45"
+   viewBox="0 0 170 45"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="subfigures-2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +24,16 @@
      inkscape:document-units="mm"
      showgrid="true"
      width="45mm"
-     inkscape:zoom="3.2426491"
-     inkscape:cx="108.70741"
-     inkscape:cy="90.974998"
+     inkscape:zoom="1.4411774"
+     inkscape:cx="307.7345"
+     inkscape:cy="15.959174"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:snap-text-baseline="true">
     <inkscape:grid
        type="xygrid"
        id="grid870" />
@@ -48,5 +50,64 @@
        cx="22.5"
        cy="22.5"
        r="20" />
+    <g
+       id="g1026-6"
+       transform="matrix(0.35277777,0,0,0.35277777,124.9998,-1.9628521e-4)">
+      <g
+         id="g1028-7">
+        <path
+           d="m 7.086,120.473 h 21.262 l 35.433,-35.434 35.43,35.434 h 21.262 V 99.211 L 85.039,63.781 120.473,28.348 V 7.086 H 99.211 L 63.781,42.52 28.348,7.086 H 7.086 V 28.348 L 42.52,63.781 7.086,99.211 Z"
+           style="fill:#fff9aa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1030-5" />
+      </g>
+    </g>
+    <g
+       id="g955-3"
+       transform="matrix(0.35277777,0,0,0.35277777,62.5,2.1690882e-6)">
+      <g
+         id="g957-5"
+         transform="matrix(1,0.470154,-0.470154,1,0,0)">
+        <path
+           d="M 128.098,27.676 92.644,76.47 35.284,57.833 V -2.479 L 92.645,-21.12 Z"
+           style="fill:#aab2ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.452485;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path959-6" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="154.88382"
+       y="-28.346457"
+       id="text4469"
+       transform="matrix(0.26458333,0,0,0.26458333,-40.479677,12.5)"><tspan
+         sodipodi:role="line"
+         id="tspan4467"
+         x="154.88382"
+         y="-28.346457"
+         style="font-weight:bold;font-size:16px;text-align:start;text-anchor:start">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="154.88382"
+       y="-28.346457"
+       id="text4469-2"
+       transform="matrix(0.26458333,0,0,0.26458333,20.020323,12.5)"><tspan
+         sodipodi:role="line"
+         id="tspan4467-9"
+         x="154.88382"
+         y="-28.346457"
+         style="font-weight:bold;font-size:16px;text-align:start;text-anchor:start">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.133333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="154.88382"
+       y="-28.346457"
+       id="text4469-2-1"
+       transform="matrix(0.26458333,0,0,0.26458333,80.520323,12.5)"><tspan
+         sodipodi:role="line"
+         id="tspan4467-9-2"
+         x="154.88382"
+         y="-28.346457"
+         style="font-weight:bold;font-size:16px;text-align:start;text-anchor:start">C</tspan></text>
   </g>
 </svg>
