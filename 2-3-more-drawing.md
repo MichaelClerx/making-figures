@@ -85,7 +85,67 @@ We'll now draw a little kinetic scheme (or "Markov model"), starting from the sk
 
 ![img](./figures-2/markov-1.jpg)
 
+We'll start with the text in a 10pt font.
+This gives us a sense of scale!
+
 ![img](./figures-2/markov-2.png)
 
-- Start with letters in a reasonable font: these give you a scale!
+We can use `Align and Distribute` to space them evenly:
+
+![img](./figures-2/markov-3.png)
+
+Or we can try to find grid positions that look good:
+
+![img](./figures-2/markov-4.png)
+
+In this example I've used `snapping to object rotation center` to snap the center of the letters to grid points.
+If you have multiple snapping methods enabled, Inkscape picks one based on your cursor location, so I've made sure to click near the center of the letters whenever I selected them.
+
+To get even spacing without counting grid lines, I've drawn a rectangle and copied+moved it.
+
+Next, draw a reaction arrow between two states.
+
+![img](./figures-2/markov-5.png)
+
+Copy-paste and flip (or rotate) to add another.
+By convention, the left-to-right one goes on top.
+
+![img](./figures-2/markov-6.png)
+
+Some more copy-pasting gives us all the horizontal arrows, nicely arranged on the grid.
+
+![img](./figures-2/markov-7.png)
+
+But this doesn't look great, so we manually adjust the arrows on the right.
+We still want the arrows to be directly above each other, so this involves finding some compromise that works for the top and bottom rows.
+
+![img](./figures-2/markov-8.png)
+
+Now we make another copy, and use rotate:
+
+![img](./figures-2/markov-9.png)
+
+Woops!
+Inkscape has rotated both arrows independently, which looks weird.
+We can manually adjust the arrow locations to correct this.
+
+An alternative solution is to use *grouping*: select both arrows and select `Object > Group` or use `Ctrl+G`.
+Now we can rotate the group of two arrows, preserving their original relationships:
+
+![img](./figures-2/markov-10.png)
+
+The convention for the arrow orientation here is that in any loop there should be an "inner loop" and "outer loop" where all arrows point in the same direction.
+
+If you like, you can ungroup them again with `Ctrl+Shift+G`.
+
+Some more copy-pasting and 
+
+![img](./figures-2/markov-11.png)
+![img](./figures-2/markov-12.png)
+![img](./figures-2/markov-13.png)
+![img](./figures-2/markov-14.png)
+![img](./figures-2/markov-15.png)
+![img](./figures-2/markov-16.png)
+![img](./figures-2/markov-17.png)
+![img](./figures-2/markov-18.png)
 

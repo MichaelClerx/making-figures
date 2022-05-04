@@ -2,7 +2,7 @@
 
 Inkscape's default file format is "Inkscape SVG (.SVG)".
 This is a normal [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) with some extra inkscape annotations.
-Other software just ignores these inkscape part, so you can happily save as "Inkscape SVG" and pass your work to any tool that accepts SVG (including most browsers).
+Other software ignores the inkscape part, so you can happily save as "Inkscape SVG" and pass your work to any tool that accepts SVG (including most browsers).
 
 ## Saving as PDF
 
