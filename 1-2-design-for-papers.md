@@ -27,6 +27,14 @@ Be consistent, and use the same fonts, font sizes etc. in all figures of your pa
 
 The article typesetter (or software) will take care of padding.
 
+### 2.5 Avoid clever latex tricks (or word)
+
+If you're writing a paper then keep your latex or word document simple.
+Anything you do outside of writing is typesetting and will be redone by a professional typesetter before publication.
+So avoid e.g. [latex subfigures](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_3)%3A_Figures%2C_Subfigures_and_Tables#Subfigures) unless you are prepared to send lots of emails in the final publication stage.
+
+In a thesis you can do whatever you like!
+
 ## Examples
 
 ### A figure designed for screen
@@ -62,4 +70,14 @@ Sure, and in some cases this is fine. But
 
 Padding gets added in the typesetting phase.
 Leave it to the typesetter!
+
+### Subfigures
+
+Don't do this if you're writing a paper:
+
+![fig](./figures-1/subfigures-1.png)
+
+Just do this instead:
+
+![fig](./figures-1/subfigures-2.svg)
 

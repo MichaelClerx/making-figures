@@ -33,3 +33,4 @@ It's split into three parts:
 - Colour maps:
   - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
   - Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color
+  - [Nunez, Anderton, Renslow (2018) Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://doi.org/10.1371/journal.pone.0199239)
