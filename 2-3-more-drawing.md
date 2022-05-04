@@ -81,5 +81,11 @@ Use `Alt+Arrow key` to make very small adjustments.
 
 ## Example: Drawing a kinetic scheme
 
+We'll now draw a little kinetic scheme (or "Markov model"), starting from the sketch below:
+
+![img](./figures-2/markov-1.jpg)
+
+![img](./figures-2/markov-2.png)
+
 - Start with letters in a reasonable font: these give you a scale!
 
