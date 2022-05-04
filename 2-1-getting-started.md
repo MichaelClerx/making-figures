@@ -33,13 +33,13 @@ Use the "Major grid line every" setting to configure the number of minor grid li
 Note that these are the default settings for _new grids_.
 To add a grid to your current document, look under `File > Document properties` and find the `Grids` tab in the dialog.
 
-### Enable snapping by default
+### Enabling snapping by default
 
 Next, make sure that "snapping" is enabled by default:
 
 ![ink](./figures-2/prefs-snap.png)
 
-### Show all the toolbars
+### Showing all the toolbars
 
 Enable all toolbars:
 
@@ -110,7 +110,7 @@ Now use `Ctrl+C` and `Ctrl+V` to create a copy of the rectangle.
 Weirdly, the rectangle appears in a slightly random place.
 You can drag-and-drop it back onto the grid with the mouse.
 
-Alternatively (and this is really useful!), use `Ctrl+Alt+V` to paste the copy _in exactly the same place_.
+Alternatively --- and this is really useful --- use `Ctrl+Alt+V` to paste the copy _in exactly the same place_.
 You now have two perfectly overlapping rectangles, so you can only see one...
 Use `Shift+Arrow keys` to move it to a new grid position.
 Click a colour at the bottom of the screen to make the rectangle change colour.

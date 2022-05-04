@@ -98,7 +98,7 @@ The first thing you'll want to do, is set the colour picking tool to either [HSL
 HSV is my favourite.
 In this mode of colour selection, you can quite easily find good colour combinations by leaving S (saturation) and V (for _value_, or brightness) fixed at their values, and simply varying H (hue).
 
-(*The human concept of "colour" is a lot more complex than this, for example "pink" and "brown" are certain hue/brightness/saturation combinations, while "golden" includes shinyness and highlights and whatnot.)
+(For primary colours, hue=colour, but in general the human concept of "colour" is more complex than this. For example "pink" and "brown" are certain hue/brightness/saturation combinations, while things like "golden" include shinyness and reflections and whatnot. There's also [stuff](https://en.wikipedia.org/wiki/Watercolor_illusion) like [this](https://en.wikipedia.org/wiki/Checker_shadow_illusion).)
 
 The fourth slider lets you set the "alpha" or transparency value.
 This can give some nice effects, but don't get carried away: many journals only accept the `EPS` format for vector graphics, which doesn't support transparency.
