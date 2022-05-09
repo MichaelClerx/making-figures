@@ -21,9 +21,10 @@ It's split into three parts:
 **Plotting data and functions with Matplotlib**
 1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/3-1-getting-started.md)
 2. [Lines and markers](3-2-lines-and-markers.md)
-3. [Axes, legends, and annotations](3-3-axes-legends-annotations.md)
-4. [Layout](3-4-layout.md)
-5. [Neat tricks](3-5-neat-tricks.md)
+3. [Layout](3-3-layout.md)
+4. [Axes, legends, and annotations](3-4-axes-legends-annotations.md)
+5. [Raster data](3-5-raster.md)
+6. [Neat tricks](3-6-neat-tricks.md)
 
 ## Disclaimer
 
