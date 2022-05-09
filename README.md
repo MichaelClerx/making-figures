@@ -19,7 +19,7 @@ It's split into three parts:
 6. [Annoyances](2-6-annoyances.md)
 
 **Plotting data and functions with Matplotlib**
-1. [Getting started](3-1-getting-started.md)
+1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/3-1-getting-started.md)
 2. [Lines and markers](3-2-lines-and-markers.md)
 3. [Axes, legends, and annotations](3-3-axes-legends-annotations.md)
 4. [Layout](3-4-layout.md)
