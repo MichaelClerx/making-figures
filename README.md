@@ -4,27 +4,27 @@ This repo contains a bunch of tips and opinion on scientific figure making, usin
 It's split into three parts:
 
 **General tips**
-1. [Plan your figures](1-1-have-a-plan.md) (start with a sketch)
-2. [Design for papers, not for screens](1-2-design-for-papers.md) (start from a fixed width)
-3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-3-vector-and-raster.ipynb)
-4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-4-visual-language.ipynb)
-5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/1-5-show-your-workings.ipynb)
+1. [Plan your figures](tutorials/1-1-have-a-plan.md) (start with a sketch)
+2. [Design for papers, not for screens](tutorials/1-2-design-for-papers.md) (start from a fixed width)
+3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/1-3-vector-and-raster.ipynb)
+4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/1-4-visual-language.ipynb)
+5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/1-5-show-your-workings.ipynb)
 
 **Making diagrams with Inkscape**, e.g. to visualise an experimental set-up or create a graphical abstract.
-1. [Getting started](2-1-getting-started.md)
-2. [Shapes, colours, text, and lines](2-2-shapes-colours-lines.md)
-3. [More drawing](2-3-more-drawing.md)
-4. [Paths](2-4-paths.md)
-5. [Saving and exporting](2-5-save-and-export.md)
-6. [Annoyances](2-6-annoyances.md)
+1. [Getting started](tutorials/2-1-getting-started.md)
+2. [Shapes, colours, text, and lines](tutorials/2-2-shapes-colours-lines.md)
+3. [More drawing](tutorials/2-3-more-drawing.md)
+4. [Paths](tutorials/2-4-paths.md)
+5. [Saving and exporting](tutorials/2-5-save-and-export.md)
+6. [Annoyances](tutorials/2-6-annoyances.md)
 
 **Plotting data and functions with Matplotlib**
-1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/3-1-getting-started.ipynb)
-2. [Lines and markers](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/3-2-lines-and-markers.ipynb)
-3. [Layout](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/3-3-layout.ipynb)
-4. [Axes, legends, and annotations](3-4-axes-legends-annotations.ipynb)
-5. [Raster data](3-5-raster.ipynb)
-6. [Neat tricks](3-6-neat-tricks.ipynb)
+1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/3-1-getting-started.ipynb)
+2. [Lines and markers](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/3-2-lines-and-markers.ipynb)
+3. [Layout](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/tutorials/3-3-layout.ipynb)
+4. [Axes, legends, and annotations](tutorials/3-4-axes-legends-annotations.ipynb)
+5. [Raster data](tutorials/3-5-raster.ipynb)
+6. [Neat tricks](tutorials/3-6-neat-tricks.ipynb)
 
 ## Disclaimer
 
