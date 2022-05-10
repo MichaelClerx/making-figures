@@ -50,7 +50,7 @@ Sure, and in some cases this is fine. But
 - Editors want figures to look good in print
 - Some journals are still read in print (especially medical ones)
 
-### 2.4 Minimise whitespace around your figure
+## 2.4 Minimise whitespace around your figure
 
 The article typesetter (or software) will take care of padding.
 
@@ -63,7 +63,7 @@ Figures can never be too big or too clear, so use all the space you can get.
 Padding gets added in the typesetting phase.
 Leave it to the typesetter!
 
-### 2.5 Avoid clever latex tricks (or word)
+## 2.5 Avoid clever latex tricks (or word)
 
 If you're writing a paper then keep your latex or word document simple.
 Anything you do outside of writing is typesetting and will be redone by a professional typesetter before publication.
