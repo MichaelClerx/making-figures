@@ -56,12 +56,7 @@ The article typesetter (or software) will take care of padding.
 
 Figures can never be too big or too clear, so use all the space you can get.
 
-### Example
-
 ![fig](./figures-1/dont-add-padding.png)
-
-Padding gets added in the typesetting phase.
-Leave it to the typesetter!
 
 ## 2.5 Avoid clever latex tricks (or word)
 
@@ -71,9 +66,7 @@ So avoid e.g. [latex subfigures](https://www.overleaf.com/learn/latex/How_to_Wri
 Best case scenario these will require lots of emails back and forth in the final stages of publication (sometimes with a week interval between each email).
 More likely the journal style simply won't allow it.
 
-### Subfigures
-
-OK in thesis, but never in a paper:
+Subfigures are OK in a thesis, but never in a paper:
 
 ![fig](./figures-1/subfigures-1.png)
 
