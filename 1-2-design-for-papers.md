@@ -5,7 +5,6 @@
 Don't waste time designing figures that look good on screen, only to adapt them later.
 You may even fall in love with your screen-designed figures, making it difficult to let go or have new ideas
 
-### A figure designed for screen
 ![Look at this](./figures-1/one-page-paci-vcp_opt-beat1.png)
 
 I love this figure, but it is much too big (and busy) to go in a paper.
@@ -27,8 +26,6 @@ Setting a physical figure width (in mm or inches) makes the font size a meaningf
 For paper figures, anything below 8 or 9pt probably won't be readable, and anything bigger than 11.5pt can seem clumsy or oversized.
 
 Be consistent, and use the same fonts, font sizes etc. in all figures of your paper.
-
-### Example
 
 ![fig](./figures-1/fixed-width-good.png)
 
