@@ -1,4 +1,4 @@
-# General tip 1: Design for papers
+# General tip 2: Design for papers
 
 ### 2.1 Don't design for screen
 
