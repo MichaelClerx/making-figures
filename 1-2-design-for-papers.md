@@ -1,11 +1,16 @@
 # General tip 2: Design for papers
 
-### 2.1 Don't design for screen
+## 2.1 Don't design for screen
 
 Don't waste time designing figures that look good on screen, only to adapt them later.
 You may even fall in love with your screen-designed figures, making it difficult to let go or have new ideas
 
-### 2.2 Start with a fixed width
+### A figure designed for screen
+![Look at this](./figures-1/one-page-paci-vcp_opt-beat1.png)
+
+I love this figure, but it is much too big (and busy) to go in a paper.
+
+## 2.2 Start with a fixed width
 
 The first thing to do when making a figure is setting its width.
 (Set the height to something big, trim down when finished).
@@ -16,33 +21,14 @@ This means your figures may get rescaled a little, but since it happens consiste
 
 I've used e.g. 80mm for single and 170mm for double column figures, or 3 inches and 7 inches.
 
-### 2.3 Pick a readable font size and use it throughout (e.g. Arial 10)
+## 2.3 Pick a readable font and use it throughout (e.g. Arial 10)
   
 Setting a physical figure width (in mm or inches) makes the font size a meaningful number (1 pt = 1/12 inch).
 For paper figures, anything below 8 or 9pt probably won't be readable, and anything bigger than 11.5pt can seem clumsy or oversized.
 
 Be consistent, and use the same fonts, font sizes etc. in all figures of your paper.
 
-### 2.4 Minimise whitespace around your figure
-
-The article typesetter (or software) will take care of padding.
-
-### 2.5 Avoid clever latex tricks (or word)
-
-If you're writing a paper then keep your latex or word document simple.
-Anything you do outside of writing is typesetting and will be redone by a professional typesetter before publication.
-So avoid e.g. [latex subfigures](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_3)%3A_Figures%2C_Subfigures_and_Tables#Subfigures) unless you are prepared to send lots of emails in the final publication stage.
-
-In a thesis you can do whatever you like!
-
-## Examples
-
-### A figure designed for screen
-![Look at this](./figures-1/one-page-paci-vcp_opt-beat1.png)
-
-I love this figure, but it is much too big (and busy) to go in a paper.
-
-### Fixed widths help you get things right
+### Example
 
 ![fig](./figures-1/fixed-width-good.png)
 
@@ -64,20 +50,34 @@ Sure, and in some cases this is fine. But
 - Editors want figures to look good in print
 - Some journals are still read in print (especially medical ones)
 
-### It's not your job to add padding
+### 2.4 Minimise whitespace around your figure
+
+The article typesetter (or software) will take care of padding.
+
+Figures can never be too big or too clear, so use all the space you can get.
+
+### Example
 
 ![fig](./figures-1/dont-add-padding.png)
 
 Padding gets added in the typesetting phase.
 Leave it to the typesetter!
 
+### 2.5 Avoid clever latex tricks (or word)
+
+If you're writing a paper then keep your latex or word document simple.
+Anything you do outside of writing is typesetting and will be redone by a professional typesetter before publication.
+So avoid e.g. [latex subfigures](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_3)%3A_Figures%2C_Subfigures_and_Tables#Subfigures).
+Best case scenario these will require lots of emails back and forth in the final stages of publication (sometimes with a week interval between each email).
+More likely the journal style simply won't allow it.
+
 ### Subfigures
 
-Don't do this if you're writing a paper:
+OK in thesis, but never in a paper:
 
 ![fig](./figures-1/subfigures-1.png)
 
-Just do this instead:
+Just do this:
 
 ![fig](./figures-1/subfigures-2.svg)
 
