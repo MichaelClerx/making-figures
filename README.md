@@ -8,6 +8,8 @@
 
 Disclaimer: I am not an expert on this.
 
+Invitation: Use the [issues page](https://github.com/MichaelClerx/making-figures/issues) to tell me I'm wrong, or suggest new things to add!
+
 ## References
 
 - General figure making: 
