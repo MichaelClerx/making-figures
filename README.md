@@ -39,6 +39,6 @@ E.g. to plot data or graph functions.
 2. [Lines and markers](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-2-lines-and-markers.ipynb)
 3. [Layout](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-3-layout.ipynb)
 4. [Axes, legends, and annotations](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-4-axes-legends-annotations.ipynb)
-5. [Raster data](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-5-raster.ipynb)
+5. [Raster data](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-5-raster-data.ipynb)
 6. [Neat tricks](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/matplotlib/3-6-neat-tricks.ipynb)
 
