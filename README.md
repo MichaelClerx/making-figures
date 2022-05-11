@@ -1,6 +1,8 @@
 # Making figures with Inkscape and Matplotlib
 
-This repo contains a bunch of tips and opinion on scientific figure making, using [Inkscape](https://inkscape.org/) for diagrams and [Matplotlib](https://matplotlib.org/) to plot data and functions.
+This repo contains a bunch of tips and opinion on scientific figure making
+
+Two appendices are included, that introduce the use of [Inkscape](https://inkscape.org/) for diagrams and [Matplotlib](https://matplotlib.org/) f plot data and functions.
 It's split into three parts:
 
 **General tips**
@@ -9,22 +11,6 @@ It's split into three parts:
 3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-3-vector-and-raster.ipynb)
 4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-4-visual-language.ipynb)
 5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-5-show-your-workings.ipynb)
-
-**Making diagrams with Inkscape**, e.g. to visualise an experimental set-up or create a graphical abstract.
-1. [Getting started](part-2/2-1-getting-started.md)
-2. [Shapes, colours, text, and lines](part-2/2-2-shapes-colours-lines.md)
-3. [More drawing](part-2/2-3-more-drawing.md)
-4. [Paths](part-2/2-4-paths.md)
-5. [Saving and exporting](part-2/2-5-save-and-export.md)
-6. [Annoyances](part-2/2-6-annoyances.md)
-
-**Plotting data and functions with Matplotlib**
-1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-1-getting-started.ipynb)
-2. [Lines and markers](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-2-lines-and-markers.ipynb)
-3. [Layout](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-3-layout.ipynb)
-4. [Axes, legends, and annotations](part-3/3-4-axes-legends-annotations.ipynb)
-5. [Raster data](part-3/3-5-raster.ipynb)
-6. [Neat tricks](part-3/3-6-neat-tricks.ipynb)
 
 ## Disclaimer
 
@@ -40,3 +26,26 @@ It's split into three parts:
   - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
   - Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color
   - [Nunez, Anderton, Renslow (2018) Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://doi.org/10.1371/journal.pone.0199239)
+
+## Appendix: Making diagrams with Inkscape
+
+E.g. to visualise an experimental set-up or create a graphical abstract.
+
+1. [Getting started](part-2/2-1-getting-started.md)
+2. [Shapes, colours, text, and lines](part-2/2-2-shapes-colours-lines.md)
+3. [More drawing](part-2/2-3-more-drawing.md)
+4. [Paths](part-2/2-4-paths.md)
+5. [Saving and exporting](part-2/2-5-save-and-export.md)
+6. [Annoyances](part-2/2-6-annoyances.md)
+
+## Appendix: Plotting with Matplotlib
+
+E.g. to plot data or graph functions.
+
+1. [Getting started](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-1-getting-started.ipynb)
+2. [Lines and markers](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-2-lines-and-markers.ipynb)
+3. [Layout](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-3/3-3-layout.ipynb)
+4. [Axes, legends, and annotations](part-3/3-4-axes-legends-annotations.ipynb)
+5. [Raster data](part-3/3-5-raster.ipynb)
+6. [Neat tricks](part-3/3-6-neat-tricks.ipynb)
+
