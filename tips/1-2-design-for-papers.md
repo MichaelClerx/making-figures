@@ -65,7 +65,7 @@ More likely the journal style simply won't allow it.
 
 Subfigures are OK in a thesis, but never in a paper:
 
-![fig](./figures/subfigures.png)
+![fig](./figures/subfigures-1.png)
 
 Just do this:
 
