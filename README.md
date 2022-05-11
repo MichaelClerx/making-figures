@@ -10,11 +10,12 @@ Disclaimer: I am not an expert on this.
 
 ## References
 
-- General figure making: [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
+- General figure making: 
+  - [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
 - Colour maps:
-  - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
-  - Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color
   - [Nunez, Anderton, Renslow (2018) Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://doi.org/10.1371/journal.pone.0199239)
+  - [Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color](https://www.researchgate.net/profile/Ahmed-Elhattab/post/Please-suggest-some-good-3D-plot-tool-Software-for-surface-plot/attachment/5c05ba35cfe4a7645506948e/AS%3A699894335557644%401543879221725/download/Why+Should+Engineers+and+Scientists+Be+Worried+About+Color_.pdf)
+  - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
 
 ## Appendix: Making diagrams with Inkscape
 
