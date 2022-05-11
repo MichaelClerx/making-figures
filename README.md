@@ -10,6 +10,8 @@ Disclaimer: I am not an expert on this.
 
 Invitation: Use the [issues page](https://github.com/MichaelClerx/making-figures/issues) to tell me I'm wrong, or suggest new things to add!
 
+Wordy word-words: [Graph, chart, plot](https://english.stackexchange.com/questions/43027/whats-the-difference-between-a-graph-a-chart-and-a-plot)
+
 ## References
 
 - General figure making: 
