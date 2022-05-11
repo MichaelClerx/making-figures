@@ -16,7 +16,7 @@ The first thing to do when making a figure is setting its width.
 
 In theory, you should look up or measure the widths of 1 column and 2 column figures in the journal guidelines.
 In practice, just pick two approximate --- but consistent --- numbers.
-This means your figures may get rescaled a little, but since it happens consistently your figures will still look great.
+This means your figures may get rescaled a little, but since it happens consistently they will still look great.
 
 I've used e.g. 80mm for single and 170mm for double column figures, or 3 inches and 7 inches.
 
@@ -63,11 +63,11 @@ So avoid e.g. [latex subfigures](https://www.overleaf.com/learn/latex/How_to_Wri
 Best case scenario these will require lots of emails back and forth in the final stages of publication (sometimes with a week interval between each email).
 More likely the journal style simply won't allow it.
 
-Subfigures are OK in a thesis, but never in a paper:
+Don't:
 
 ![fig](./figures/subfigures-1.png)
 
-Just do this:
+Do:
 
 ![fig](./figures/subfigures-2.svg)
 
