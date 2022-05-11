@@ -1,7 +1,7 @@
 # Tips for making scientific figues
 
-1. [Plan your figures](part-1/1-1-have-a-plan.md) (start with a sketch)
-2. [Design for papers, not for screens](part-1/1-2-design-for-papers.md) (start from a fixed width)
+1. [Have a plan](part-1/1-1-have-a-plan.md) (start with a sketch)
+2. [Design for papers from the start](part-1/1-2-design-for-papers.md) (start from a fixed width)
 3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-3-vector-and-raster.ipynb)
 4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-4-visual-language.ipynb)
 5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-5-show-your-workings.ipynb)
