@@ -1,4 +1,4 @@
-# Tips for making scientific figues
+# Tips for making scientific figures
 
 1. [Have a plan](part-1/1-1-have-a-plan.md) (start with a sketch)
 2. [Design for papers from the start](part-1/1-2-design-for-papers.md) (start from a fixed width)
