@@ -1,23 +1,12 @@
-# Making figures with Inkscape and Matplotlib
+# Tips for making scientific figues
 
-This repo contains a bunch of tips and opinion on scientific figure making
-
-Two appendices are included, that introduce the use of [Inkscape](https://inkscape.org/) for diagrams and [Matplotlib](https://matplotlib.org/) f plot data and functions.
-It's split into three parts:
-
-**General tips**
 1. [Plan your figures](part-1/1-1-have-a-plan.md) (start with a sketch)
 2. [Design for papers, not for screens](part-1/1-2-design-for-papers.md) (start from a fixed width)
 3. [Use vector art where appropriate](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-3-vector-and-raster.ipynb)
 4. [Consciously use visual language](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-4-visual-language.ipynb)
 5. [Show your workings](https://nbviewer.org/github/MichaelClerx/making-figures/blob/main/part-1/1-5-show-your-workings.ipynb)
 
-## Disclaimer
-
-- This is not a step-by-step guide to either tool. Detailed technical information and several tutorials are already available on line.
-- I am not an expert on any of this. There are books and websites and academic degrees in graphic design and communication.
-- Few papers that I know of address scientific figure making directly ([google scholar](https://scholar.google.com/scholar?q=scientific+figures)), although there are loads on colours, perception, etc.
-  A few interesting ones are listed below.
+Disclaimer: I am not an expert on this.
 
 ## References
 
