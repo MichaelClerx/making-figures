@@ -71,3 +71,16 @@ Do:
 
 ![fig](./figures/subfigures-2.svg)
 
+## 2.6 Design for presentations
+
+If your end goal is not a paper but a presentation, it can be worth the effort to design for a presentation specifically, or to adapt your paper-designed figures for a slide.
+
+The main tip for presentations: **don't put too many things on the slide** (at once).
+
+E.g.
+ - Split multi-panel figures into several single-panel figures
+ - Split figures into several "steps", e.g. first show only panel 1, then panel 1 and 2, then panels 1--3, etc.
+ - You can even "build up" a figure line by line to really guide the audience through
+ - Remove (or grey out) any parts of the figure that are not required! (no "apologies for the messy slide").
+ 
+This takes a lot of time, so reserve for important presentations.
