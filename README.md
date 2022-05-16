@@ -17,6 +17,10 @@ Please use the [issues page](https://github.com/MichaelClerx/making-figures/issu
   - [Nunez, Anderton, Renslow (2018) Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data](https://doi.org/10.1371/journal.pone.0199239)
   - [Rogowitz, Treinish (2017) Why Should Engineers and Scientists Be Worried About Color](https://www.researchgate.net/profile/Ahmed-Elhattab/post/Please-suggest-some-good-3D-plot-tool-Software-for-surface-plot/attachment/5c05ba35cfe4a7645506948e/AS%3A699894335557644%401543879221725/download/Why+Should+Engineers+and+Scientists+Be+Worried+About+Color_.pdf)
   - [Borland, Taylor (2007) Rainbow color map (still) considered harmful](https://doi.org/10.1109/MCG.2007.323435)
+- Choosing colours:
+  - [Online colourblind simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/) 
+  - [Color brewer](https://colorbrewer2.org/)
+  - [Seaborn palettes](https://seaborn.pydata.org/tutorial/color_palettes.html)
 - Words
   - [What's the difference between a graph, a chart, and a plot](https://english.stackexchange.com/questions/43027/whats-the-difference-between-a-graph-a-chart-and-a-plot)
 
