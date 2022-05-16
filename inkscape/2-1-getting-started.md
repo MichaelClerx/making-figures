@@ -124,4 +124,6 @@ Repeat a few times to draw a multicoloured tetris block:
 
 ![ink](./figures/snap-rect-done.png)
 
+Instead of `Ctrl+C` and `Ctrl+Alt+V`, you can use `Ctrl+D` to _duplicate_ an object in place.
+
 Hurray! You've mastered the basics.
