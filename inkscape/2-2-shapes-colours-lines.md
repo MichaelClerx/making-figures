@@ -185,3 +185,16 @@ The toolbar that shows up when the text tool is selected lets you change font, f
 Working with text in Inkscape can be quite annoying.
 For example, the alignment tool sometimes stops working, and sometimes settings don't seem to get applied unless I select all the text first.
 
+### Latex
+
+Sometimes you might want Latex formatted equations in your diagrams.
+One way to achieve this is to import a PDF into Inkscape, and cut out the desired parts (this requires ungrouping a lot of things first).
+
+If you have latex installed, and if Inkscape was able to recognise this, you may also be able to use a plugin:
+
+![img](./figures/latex-1.png)
+
+Select from `Extensions > Render > Mathematics > LaTeX`
+
+![img](./figures/latex-2.png)
+
