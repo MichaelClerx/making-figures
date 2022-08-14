@@ -11,6 +11,8 @@ Please use the [issues page](https://github.com/MichaelClerx/making-figures/issu
 
 ## References
 
+- A free book on data visualisation, with lots of beautiful examples:
+  - [Claus O. Wilke (2019) Fundamentals of Data Visualization](https://clauswilke.com/dataviz)
 - General figure making: 
   - [Rolandi, Cheng, Pérez-Kriz (2011) A Brief Guide to Designing Effective Figures for the Scientific Paper](https://doi.org/10.1002/adma.201102518).
 - Colour maps:
