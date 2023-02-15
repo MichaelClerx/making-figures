@@ -28,6 +28,8 @@ Like nodes, handles can "snap" to the grid, so that we can set them systematical
 At each end, the line segment will be tangential to its handles.
 In between, the curvature varies smoothly, at a rate set by the ratio between the handle lengths.
 
+(To delete a handle, hold Ctrl and click on it).
+
 We can mess around a bit until we have something almost acceptable:
 
 ![img](./figures/ion-5.png)
